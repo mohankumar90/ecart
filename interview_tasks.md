@@ -10,3 +10,9 @@ And it should return similar to the following:
         "most_frequent_item": "USB Cable"
     }
     ```
+
+2. Write a function, it takes a string. Evaluate the given string for password validation requirements as follows, and return True if all validations are passes, otherwise False:
+    - Min 8 characters and max 16 characters
+    - Atleast 1 capital and 1 small leters should be there
+    - Atleast 1 numeric should be there
+    - Atleast 1 special character, and the allowed special characters are:   ! @ # * &
