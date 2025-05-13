@@ -69,6 +69,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = "ecart.wsgi.application"
+CSRF_COOKIE_SECURE = False
 
 
 # Database
